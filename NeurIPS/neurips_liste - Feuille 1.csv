@@ -1,0 +1,296 @@
+name,year,paper title,co-authors,gender,Morrocan affiliation 
+Samy Bengio,2023,Transformers learn through gradual rank increase,"Emmanuel Abbe, Enric Boix-Adsera, Etai Littwin, Joshua Susskind",male,no
+Samy Bengio,2022,"Learning to Reason with Neural Networks: Generalization, Unseen Data and 
+Boolean Measures","Emmanuel Abbe, Elisabetta Cornacchia, Jon Kleinberg, Aryo Lotfi, 
+Maithra Raghu, Chiyuan Zhang",male,no
+Samy Bengio,2021,"Improving Anytime Prediction with Parallel Cascaded Networks and a 
+Temporal-Difference Loss","Michael Iuzzolino, Michael C. Mozer",male,no
+Samy Bengio,2021,Learnable Fourier Features for Multi-dimensional Spatial Positional Encoding,"Yang Li, Si Si, Gang Li, Cho-Jui Hsieh",male,no
+Samy Bengio,2020,Memory Based Trajectory-conditioned Policies for Learning from Sparse Rewards ," Yijie Guo, Jongwook Choi, Marcin Moczulski, Shengyu Feng, 
+ Mohammad Norouzi, Honglak Lee",male,no
+Samy Bengio,2019,Transfusion: Understanding Transfer Learning for Medical Imaging ,"Maithra Raghu, Chiyuan Zhang, Jon Kleinberg",male,no
+Samy Bengio,2018,Content preserving text generation with attribute controls,"Lajanugen Logeswaran, Honglak Lee",male,no
+Samy Bengio,2018,Insights on representational similarity in neural networks with canonical correlation ," Ari Morcos, Maithra Raghu",male,no
+Samy Bengio,2018,Large Margin Deep Networks for Classification,"Gamaleldin Elsayed, Dilip Krishnan, Hossein Mobahi, Kevin Regan",male,no
+Samy Bengio,2016,Reward Augmented Maximum Likelihood for Neural Structured Prediction,"Mohammad Norouzi,, zhifeng Chen, Navdeep Jaitly, Mike Schuster,
+ Yonghui Wu, Dale Schuurmans",male,no
+Samy Bengio,2016,Can Active Memory Replace Attention?,"Łukasz Kaiser,",male,no
+Samy Bengio,2016,An Online Sequence-to-Sequence Model Using Partial Conditioning ,"Navdeep Jaitly, Quoc V. Le, Oriol Vinyals, Ilya Sutskever, 
+David Sussillo",male,no
+Samy Bengio,2015,Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks," Oriol Vinyals, Navdeep Jaitly, Noam Shazeer",male,no
+Samy Bengio,2010,Label Embedding Trees for Large Multi-Class Tasks,"Jason Weston, David Grangier",male,no
+Samy Bengio,2009,An Online Algorithm for Large Scale Image Similarity Learning ,"Gal Chechik, Uri Shalit, Varun Sharma",male,no
+Samy Bengio,2009,Group Sparse Coding ,"Fernando Pereira, Yoram Singer, Dennis Strelow",male,no
+Samy Bengio,2005,A Probabilistic Interpretation of SVMs with an Application to Unbalanced Classification,"Yves Grandvalet, Johnny Mariethoz",male,no
+Samy Bengio,2005,Benchmarking Non-Parametric Statistical Tests," Mikaela Keller,Siew Wong",male,no
+Samy Bengio,2005,Learning Influence among Interacting Markov Chains,"Dong Zhang, Daniel Gatica-perez, Deb Roy
+",male,no
+Samy Bengio,2002,An Asynchronous Hidden Markov Model for Audio-Visual Speech Recognition,,male,no
+Samy Bengio,2001,A Parallel Mixture of SVMs for Very Large Scale Problems,"Ronan Collobert, Yoshua Bengio
+",male,no
+Samy Bengio,2000,New Approaches Towards Robust and Adaptive Speech Recognition ,"Hervé Bourlard, Katrin Weber",male,no
+Samy Bengio,1999,Modeling High-Dimensional Discrete Data with Multi-Layer Neural Networks,Yoshua Bengio,male,no
+Samy Bengio,1997,Shared Context Probabilistic Transducers ,"Yoshua Bengio, Jean-Franc Isabelle, Yoram Singer
+",male,no
+Samy Bengio,1989,A Neural Network to Detect Homologies in Proteins,"Yoshua Bengio, Yannick Pouliot, Patrick Agin
+",male,no
+Samy Bengio,2013,DeViSE: A Deep Visual-Semantic Embedding Model,"Andrea Frome, Greg S. Corrado, Jon Shlens, Jeff Dean, Marc'Aurelio 
+Ranzato, Tomas Mikolov
+",male,no
+Rachid Guerraoui,2023,Robust Distributed Learning: Tight Error Bounds and Breakdown Point under Data Heterogeneity ,"Youssef Allouah, Nirupam Gupta, Rafael Pinot, Geovani Rizk",male,no
+Rachid Guerraoui,2023,Epidemic Learning: Boosting Decentralized Learning with Randomized Communication,"Martijn De Vos, Sadegh Farhadkhani, Anne-marie Kermarrec, 
+Rafael Pires, Rishi Sharma",male,no
+Rachid Guerraoui,2017,Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent ,"Peva Blanchard, El Mahdi El Mhamdi, Julien Stainer",male,no
+Rachid Guerraoui,2017,Dynamic Safe Interruptibility for Decentralized Multi-Agent Reinforcement Learning,"El Mahdi El Mhamdi, Hadrien Hendrikx, Alexandre Maurer
+",male,no
+Rachid Guerraoui,2021,"Collaborative Learning in the Jungle (Decentralized, Byzantine, Heterogeneous, 
+Asynchronous and Nonconvex Learning)","El Mahdi El-Mhamdi, Sadegh Farhadkhani,, Arsany Guirguis,
+ Lê-Nguyên Hoang, Sébastien Rouault
+",male,no
+Khalid Choukri,1990,Speech Recognition Using Connectionist Approaches ,,male,no
+Jalal Fadili,2016,Sparse Support Recovery with Non-smooth Loss Functions,"Kévin Degraux, Gabriel Peyré, Laurent Jacques
+",male,no
+Jalal Fadili,2016,A Multi-step Inertial Forward-Backward Splitting Method for Non-convex Optimization ,"Jingwei Liang, Jalal Fadili, Gabriel Peyré",male,no
+Jalal Fadili,2014,Local Linear Convergence of Forward--Backward under Partial Smoothness ,"ingwei Liang, Gabriel Peyré",male,no
+Jalal Fadili,2012,A quasi-Newton proximal splitting method,"Stephen Becker,",male,no
+Karim Filali,2006,Multi-dynamic Bayesian Networks,"Jeff A. Bilmes",male,no
+El Mahdi El Mhamdi,2021,"Collaborative Learning in the Jungle (Decentralized, Byzantine, Heterogeneous, 
+Asynchronous and Nonconvex Learning)","Sadegh Farhadkhani, Rachid Guerraoui, Arsany Guirguis,
+ Lê-Nguyên Hoang, Sébastien Rouault",male,no
+El Mahdi El Mhamdi,2017,Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent ,"Peva Blanchard, Rachid Guerraoui, Julien Stainer",male,no
+El Mahdi El Mhamdi,2017,Dynamic Safe Interruptibility for Decentralized Multi-Agent Reinforcement Learning," Rachid Guerraoui, Hadrien Hendrikx, Alexandre Maurer",male,no
+Aymen Al Marjani,2023,On the Complexity of Differentially Private Best-Arm Identification with Fixed Confidence,"Achraf Azize, Marc Jourdan, Debabrota Basu
+",male,no
+Aymen Al Marjani,2021,Navigating to the Best Policy in Markov Decision Processes,"Aurélien Garivier, Alexandre Proutiere",male,no
+Aymen Al Marjani,2022,Near Instance-Optimal PAC Reinforcement Learning for Deterministic MDPs,"Andrea Tirinzoni, Emilie Kaufmann
+",male,no
+Loubna Benabbou,2022,MAgNet: Mesh Agnostic Neural PDE Solver,"Oussama Boussif, Yoshua Bengio, Dan Assouline
+",female,no
+Loubna Benabbou,2023,"Improving *day-ahead* Solar Irradiance Time Series Forecasting by Leveraging 
+Spatio-Temporal Context ","Oussama Boussif, Ghait Boukachab, Dan Assouline, Stefano Massaroli,
+ Tianle Yuan, , Yoshua Bengio
+",female,no
+Kaoutar El Maghraoui,2022,Deep Compression of Pre-trained Transformer Models ,"Naigang Wang, Chi-Chun (Charlie) Liu, Swagath Venkataramani,
+ Sanchari Sen, Chia-Yu Chen,  Vijayalakshmi (Viji) Srinivasan,
+ Leland Chang
+",female,no
+Kaoutar El Maghraoui,2020,Ultra-Low Precision 4-bit Training of Deep Neural Networks,"Xiao Sun, Naigang Wang, Chia-Yu Chen, Jiamin Ni, Ankur Agrawal, 
+Xiaodong Cui, Swagath Venkataramani,Vijayalakshmi (Viji) Srinivasan,
+ Kailash Gopalakrishnan
+",female,no
+Tariq Daouda,2022,"Free Probability for predicting the performance of feed-forward fully connected
+ neural networks","Reda CHHAIBI, Ezechiel Kahn
+",male,YES
+Oussama Boussif,2023,"Improving *day-ahead* Solar Irradiance Time Series Forecasting by Leveraging 
+Spatio-Temporal Context","Ghait Boukachab, Dan Assouline, Stefano Massaroli, Tianle Yuan, 
+Loubna Benabbou, Yoshua Bengio
+",male,no
+Oussama Boussif,2022,MAgNet: Mesh Agnostic Neural PDE Solver,"Yoshua Bengio, Loubna Benabbou, Dan Assouline
+",male,no
+Sanae Lotfi,2022,PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization,"Marc Finzi, Sanyam Kapoor, Andres Potapczynski, Micah Goldblum, 
+Andrew G. Wilson
+",female,no
+Sanae Lotfi,2021,Dangers of Bayesian Model Averaging under Covariate Shift,"Pavel Izmailov, Patrick Nicholson, Andrew G. Wilson
+",female,no
+Youssef Allouah,2023,"Robust Distributed Learning: Tight Error Bounds and Breakdown Point under
+ Data Heterogeneity ","Rachid Guerraoui, Nirupam Gupta, Rafael Pinot, Geovani Rizk",male,no
+Achraf Azize,2023,On the Complexity of Differentially Private Best-Arm Identification with Fixed Confidence," Marc Jourdan, Aymen Al Marjani, Debabrota Basu
+",male,no
+Achraf Azize,2022,When Privacy Meets Partial Information: A Refined Analysis of Differentially Private Bandits,Debabrota Basu,male,no
+Amine Ouasfi,2023,Robustifying Generalizable Implicit Shape Networks with a Tunable Non-Parametric Model,Adnane Boukhayma,male,no
+El Mehdi Saad,2023,Covariance-adaptive best arm identification,"Gilles Blanchard, Nicolas Verzelen",male,no
+Abdellah Aznag,2023,An active learning framework for multi-group mean estimation,"Rachel Cummings, Adam N. Elmachtoub",male,no
+Adnane Boukhayma,2023,Robustifying Generalizable Implicit Shape Networks with a Tunable Non-Parametric Model,Amine Ouasfi,male,no
+Ismail Nejjar,2023,SimMMDG: A Simple and Effective Framework for Multi-modal Domain Generalization,"Hao Dong, Han Sun, Eleni Chatzi, Olga Fink",male,no
+Yassir Jedra,2023,Spectral Entry-wise Matrix Estimation for Low-Rank Reinforcement Learning,"Stefan Stojanovic, Alexandre Proutiere
+",male,no
+Ziyad Benomar,2023,Advice Querying under Budget Constraint for Online Algorithms,Vianney Perchet,male,no
+Souhaib Attaiki,2023,"Shape Non-rigid Kinematics (SNK): A Zero-Shot Method for Non-Rigid Shape Matching via
+ Unsupervised Functional Map Regularized Reconstruction",Maks Ovsjanikov,male,no
+Mohamed NADIF,2022,Efficient and Effective Optimal Transport-Based Biclustering,"lazhar labiod, Chakib Fettal",male,no
+El Mehdi Achour,2022,"A general approximation lower bound in Lp norm, with applications to feed-forward 
+neural networks"," Armand Foucault, Sébastien Gerchinovitz, François Malgouyres
+",male,no
+Ahmed El Alaoui,2022,The Franz-Parisi Criterion and Computational Trade-offs in High Dimensional Statistics ," Afonso S Bandeira, Samuel Hopkins, Tselil Schramm, Alexander S Wein,
+ Ilias Zadik
+",male,no
+Amine Aboussalah,2022,A Deep Reinforcement Learning Framework for Column Generation,"Cheng Chi, Elias Khalil, Juyoung Wang, Zoha Sherkat-Masoumi
+",male,no
+Omar Mouchtaki,2022,Beyond IID: data-driven decision-making in heterogeneous environments ,"Omar Besbes, Will Ma",male,no
+Badr MOUFAD,2022,"Benchopt: Reproducible, efficient and collaborative optimization benchmarks ","Thomas Moreau, Mathurin Massias, Alexandre Gramfort, Pierre Ablin, 
+Pierre-Antoine Bannier, Benjamin Charlier, Mathieu Dagréou, 
+Tom Dupre la Tour, Ghislain DURIF, Cassio F. Dantas, Quentin Klopfenstein
+, Johan Larsson, En Lai, Tanguy Lefort, Benoît Malézieux,, Binh T. Nguyen,
+ Alain Rakotomamonjy, Zaccharie Ramzi, Joseph Salmon, Samuel Vaiter",male,no
+Rida Laraki,2022,An alpha-No-Regret Algorithm For Graphical Bilinear Bandits ,"Geovani Rizk, Igor Colin, Albert Thomas, Yann Chevaleyre
+",male,no
+Rida Laraki,2022,Smooth Fictitious Play in Stochastic Games with Perturbed Payoffs and Unknown Transitions,Lucas Baudin,male,no
+Othmane Marfoq,2021,Federated Multi-Task Learning under a Mixture of Distributions," Giovanni Neglia, Aurélien Bellet, Laetitia Kameni, Richard Vidal",male,no
+Othman Sbai,2021,Re-ranking for image retrieval and transductive few-shot classification,"Xi SHEN, Yang Xiao, Shell Xu Hu, Mathieu Aubry
+",male,no
+Reda Ouhamma,2021,Online Sign Identification: Minimization of the Number of Errors in Thresholding Bandits ,"Odalric-Ambrym Maillard, Vianney Perchet",male,no
+Reda Ouhamma,2021,Stochastic Online Linear Regression: the Forward Algorithm to Replace Ridge," Odalric-Ambrym Maillard, Vianney Perchet",male,no
+Aadil Oufkir,2021,Sequential Algorithms for Testing Closeness of Distributions ,"Omar Fawzi, Nicolas Flammarion, Aurélien Garivier",male,no
+Soufiane Hayou,2021,Regularization in ResNet with Stochastic Depth," Fadhel Ayed",male,no
+Shahine Bouabid,2021,Deconditional Downscaling with Gaussian Processes ,"Siu Lun Chau, Dino Sejdinovic
+",male,no
+Madiha Nadri,2021,Supervising the Transfer of Reasoning Patterns in VQA ,"Corentin Kervadec, Christian Wolf, Grigory Antipov,,Moez Baccouche",female,no
+El Mehdi Saad,2021,Fast rates for prediction with limited expert advice ,"Gilles Blanchard",male,no
+"Ayoub Belhadji",2021,An analysis of Ermakov-Zolotukhin quadrature using kernels,,male,no
+Othmane Marfoq,2020,Throughput-Optimal Topology Design for Cross-Silo Federated Learning," CHUAN XU, Giovanni Neglia, Richard Vidal",male,no
+Hicham Janati,2020,Entropic Optimal Transport between Unbalanced Gaussian Measures has a Closed Form ,"Boris Muzellec, Gabriel Peyré, Marco Cuturi
+",male,no
+Ayman Boustati,2020,VarGrad: A Low-Variance Gradient Estimator for Variational Inference ,"Lorenz Richter, Nikolas Nüsken, Francisco Ruiz, Omer Deniz Akyildiz
+",male,no
+Ayman Boustati,2020,Generalised Bayesian Filtering via Sequential Monte Carlo,"Omer Deniz Akyildiz, Theodoros Damoulas, Adam Johansen",male,no
+Yassir Jedra,2020,Optimal Best-arm Identification in Linear Bandits ,"Alexandre Proutiere",male,no
+Achraf Bahamou,2020,Practical Quasi-Newton Methods for Training Deep Neural Networks ,Donald Goldfarb,male,no
+Othmane Sebbouh,2019,Towards closing the gap between the theory and practice of SVRG ,"Nidham Gazagnadou, Samy Jelassi, Francis Bach, Robert Gower",male,no
+Othman El Balghiti,2019,Generalization Bounds in the Predict-then-Optimize Framework,"Adam N. Elmachtoub, Paul Grigas, Ambuj Tewari",male,no
+Mohamed Belghazi,2019,Learning about an exponential amount of conditional distributions ,"Maxime Oquab, David Lopez-Paz",male,no
+"Ayoub Belhadji",2019,Kernel quadrature with DPPs,"Rémi Bardenet, Pierre Chainais",male,no
+Youssef Alami Mejjati,2018,Unsupervised Attention-guided Image-to-Image Translation ," Christian Richardt, James Tompkin, Darren Cosker, Kwang In Kim",male,no
+Omar El Housni,2017,Beyond Worst-case: A Probabilistic Analysis of Affine Policies in Dynamic Optimization, Vineet Goyal,male,no
+Ahmed Alaoui,2015,Fast Randomized Kernel Ridge Regression with Statistical Guarantees ," Michael W. Mahoney",male,no
+Karim Filali,2006,Multi-dynamic Bayesian Networks," Jeff A. Bilmes
+",male,no
+Yoshua Bengio,2023, Let the Flows Tell: Solving Graph Combinatorial Problems with GFlowNets ,"Dinghuai Zhang, Hanjun Dai, Nikolay Malkin, Aaron C. Courville, , Ling Pan",male,no
+Yoshua Bengio,2023,Contrastive Retrospection: honing in on critical steps for rapid learning and generalization in RL,"Chen Sun, Wannan Yang, Thomas Jiralerspong, Dane Malenfant, 
+Benjamin Alsbury-Nealy, , Blake Richards",male,no
+Yoshua Bengio,2023," Joint Bayesian Inference of Graphical Structure and Parameters with a Single Generative Flow
+ Network ","Tristan Deleu, Mizu Nishikawa-Toomey, Jithendaraa Subramanian, Nikolay 
+Malkin, Laurent Charlin, ",male,no
+Yoshua Bengio,2023,DynGFN: Towards Bayesian Inference of Gene Regulatory Networks with GFlowNets ,"Lazar Atanackovic, Alexander Tong, Bo Wang, Leo J Lee, Yoshua Bengio, 
+Jason S. Hartford",male,no
+Yoshua Bengio,2023, HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution,"Eric Nguyen, Michael Poli, Marjan Faizi, Armin Thomas, Michael Wornow, 
+Callum Birch-Sykes, Stefano Massaroli, Aman Patel, Clayton Rabideau, 
+Stefano Ermon, Christopher Ré, Stephen Baccus",male,no
+Yoshua Bengio,2023,Laughing Hyena Distillery: Extracting Compact Recurrences From Convolutions ," Stefano Massaroli, Michael Poli, Dan Fu, Hermann Kumbong, Rom 
+Parnichkun, David Romero, Aman Timalsina, Quinn McIntyre, Beidi Chen, 
+Atri Rudra, Ce Zhang, Christopher Ré, Stefano Ermon",male,no
+Yoshua Bengio,2023,Reusable Slotwise Mechanisms ,"Trang Nguyen, Amin Mansouri, Kanika Madan, Khuong Duy Nguyen, 
+Kartik Ahuja, Dianbo Liu,",male,no
+Yoshua Bengio,2023,"Improving *day-ahead* Solar Irradiance Time Series Forecasting by Leveraging Spatio-Temporal 
+Context","Oussama Boussif, Ghait Boukachab, Dan Assouline, Stefano Massaroli,
+Tianle Yuan, Loubna Benabbou",male,no
+Yoshua Bengio,2022,Is a Modular Architecture Enough?,"Sarthak Mittal, Guillaume Lajoie",male,no
+Yoshua Bengio,2022,Weakly Supervised Representation Learning with Sparse Perturbations,"Kartik Ahuja, Jason S. Hartford,",male,no
+Yoshua Bengio,2022,"Discrete Compositional Representations as an Abstraction for Goal Conditioned Reinforcement 
+Learning","Riashat Islam, Hongyu Zang, Anirudh Goyal, Alex M. Lamb, Kenji Kawaguchi,
+ Xin Li, Romain Laroche, Remi Tachet des Combes",male,no
+Yoshua Bengio,2022,Neural Attentive Circuits ,"Martin Weiss, Nasim Rahaman, Francesco Locatello, Chris Pal, Bernhard 
+Schölkopf, Erran Li Li, Nicolas Ballas",male,no
+Yoshua Bengio,2022,Trajectory balance: Improved credit assignment in GFlowNets,"Nikolay Malkin, Moksh Jain, Emmanuel Bengio, Chen Sun",male,no
+Yoshua Bengio,2022,"Controlled Sparsity via Constrained Optimization or: How I Learned to Stop Tuning Penalties and 
+Love Constraints ","Jose Gallego-Posada, Juan Ramirez, Akram Erraqabi,Simon Lacoste-Julien",male,no
+Yoshua Bengio,2022,Temporal Latent Bottleneck: Synthesis of Fast and Slow Processing Mechanisms in Sequence Learning,"Aniket Didolkar, Kshitij Gupta, Anirudh Goyal, Nitesh Bharadwaj Gundavarapu, 
+Alex M. Lamb, Nan Rosemary Ke",male,no
+Yoshua Bengio,2022,MAgNet: Mesh Agnostic Neural PDE Solver,"Oussama Boussif,  Loubna Benabbou, Dan Assouline",male,no
+Yoshua Bengio,2021, Discrete-Valued Neural Communication,"Dianbo Liu, Alex M. Lamb, Kenji Kawaguchi, Anirudh Goyal ALIAS PARTH 
+GOYAL, Chen Sun, Michael C. Mozer,",male,no
+Yoshua Bengio,2021,A Consciousness-Inspired Planning Agent for Model-Based Reinforcement Learning,"Mingde Zhao, Zhen Liu, Sitao Luan, Shuyuan Zhang, Doina Precup",male,no
+Yoshua Bengio,2021,Gradient Starvation: A Learning Proclivity in Neural Networks ,"Mohammad Pezeshki, Oumar Kaba, Aaron C. Courville, Doina Precup, 
+Guillaume Lajoie",male,no
+Yoshua Bengio,2021,Dynamic Inference with Neural Interpreters ,"Nasim Rahaman, Muhammad Waleed Gondal, Shruti Joshi, Peter Gehler,
+ Francesco Locatello, Bernhard Schölkopf",male,no
+Yoshua Bengio,2021,Neural Production Systems,"Anirudh Goyal ALIAS PARTH GOYAL, Aniket Didolkar, Nan Rosemary Ke, 
+Charles Blundell, Philippe Beaudoin, Nicolas Heess, Michael C. Mozer,",male,no
+Yoshua Bengio,2021,Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization,"Kartik Ahuja, Ethan Caballero, Dinghuai Zhang, Jean-Christophe Gagnon-Audet,
+ Ioannis Mitliagkas, Irina Rish",male,no
+Yoshua Bengio,2021,Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation,"Emmanuel Bengio, Moksh Jain, Maksym Korablyov, Doina Precup",male,no
+Yoshua Bengio,2021,"The Causal-Neural Connection: Expressiveness, Learnability, and Inference ","Kevin Xia, Kai-Zhan Lee,Elias Bareinboim",male,no
+Yoshua Bengio,2020,Hybrid Models for Learning to Branch ,"Prateek Gupta, Maxime Gasse, Elias Khalil, Pawan Mudigonda, Andrea Lodi",male,no
+Yoshua Bengio,2020,Untangling tradeoffs between recurrence and self-attention in artificial neural networks ,"Giancarlo Kerg, Bhargav Kanuparthi, Anirudh Goyal ALIAS PARTH GOYAL, Kyle
+ Goyette, Guillaume Lajoie",male,no
+Yoshua Bengio,2020,Your GAN is Secretly an Energy-based Model and You Should Use Discriminator Driven Latent Sampling,"Tong Che, Ruixiang ZHANG, Jascha Sohl-Dickstein, Hugo Larochelle, Liam Paull,
+ Yuan Cao",male,no
+Yoshua Bengio,2019,On Adversarial Mixup Resynthesis,"Christopher Beckham, Sina Honari, Vikas Verma, Alex M. Lamb, Farnoosh Ghadiri,
+ R Devon Hjelm,Chris Pal",male,no
+Yoshua Bengio,2019, Updates of Equilibrium Prop Match Gradients of Backprop Through Time in an RNN with Static Input ,"Maxence Ernoult, Julie Grollier, Damien Querlioz, Benjamin Scellier",male,no
+Yoshua Bengio,2019,Unsupervised State Representation Learning in Atari ,"Ankesh Anand, Evan Racah, Sherjil Ozair, Marc-Alexandre Côté, R Devon Hjelm",male,no
+Yoshua Bengio,2019,How to Initialize your Network? Robust Initialization for WeightNorm & ResNets,"Devansh Arpit, Víctor Campos,",male,no
+Yoshua Bengio,2019, Variational Temporal Abstraction,"Taesup Kim, Sungjin Ahn,",male,no
+Yoshua Bengio,2019,Gradient based sample selection for online continual learning,"Rahaf Aljundi, Min Lin, Baptiste Goujaud",male,no
+Yoshua Bengio,2019,"Non-normal Recurrent Neural Network (nnRNN): learning long time dependencies while improving
+ expressivity with transient dynamics","Giancarlo Kerg, Kyle Goyette, Maximilian Puelma Touzel, Gauthier Gidel,
+ Eugene Vorontsov, Guillaume Lajoie",male,no
+Yoshua Bengio,2019,MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis ,"Kundan Kumar, Rithesh Kumar, Thibault de Boissiere, Lucas Gestin, Wei Zhen 
+Teoh, Jose Sotelo, Alexandre de Brébisson, Aaron C. Courville",male,no
+Yoshua Bengio,2019,Wasserstein Dependency Measure for Representation Learning ,"Sherjil Ozair, Corey Lynch,, Aaron van den Oord, Sergey Levine,
+ Pierre Sermanet",male,no
+Yoshua Bengio,2018,Image-to-image translation for cross-domain disentanglement ,"Abel Gonzalez-Garcia, Joost van de Weijer",male,no
+Yoshua Bengio,2018,MetaGAN: An Adversarial Approach to Few-Shot Learning,"Ruixiang ZHANG, Tong Che, Zoubin Ghahramani, Yangqiu Song",male,no
+Yoshua Bengio,2018,Bayesian Model-Agnostic Meta-Learning ,"Jaesik Yoon, Taesup Kim, Ousmane Dia, Sungwoong Kim, Sungjin Ahn",male,no
+Yoshua Bengio,2018,Sparse Attentive Backtracking: Temporal Credit Assignment Through Reminding ,"Nan Rosemary Ke, Anirudh Goyal ALIAS PARTH GOYAL, Olexa Bilaniuk, Jonathan
+ Binas, Michael C. Mozer, Chris Pal,",male,no
+Yoshua Bengio,2018,Dendritic cortical microcircuits approximate the backpropagation algorithm,"João Sacramento, Rui Ponte Costa,Walter Senn",male,no
+Yoshua Bengio,2017,Variational Walkback: Learning a Transition Operator as a Stochastic Recurrent Net,"Anirudh Goyal ALIAS PARTH GOYAL, Nan Rosemary Ke, Surya Ganguli",male,no
+Yoshua Bengio,2017,GibbsNet: Iterative Adversarial Inference for Deep Graphical Models ,"Alex M. Lamb, Devon Hjelm, Yaroslav Ganin, Joseph Paul Cohen, 
+Aaron C. Courville",male,no
+Yoshua Bengio,2017,"Plan, Attend, Generate: Planning for Sequence-to-Sequence Models","Caglar Gulcehre, Francis Dutil, Adam Trischler",male,no
+Yoshua Bengio,2017,Z-Forcing: Training Stochastic Recurrent Networks ,"Anirudh Goyal ALIAS PARTH GOYAL, Alessandro Sordoni, Marc-Alexandre Côté, 
+Nan Rosemary Ke",male,no
+Yoshua Bengio,2016,Architectural Complexity Measures of Recurrent Neural Networks,"Saizheng Zhang, Yuhuai Wu, Tong Che, Zhouhan Lin, Roland Memisevic, Russ R
+.Salakhutdinov,",male,no
+Yoshua Bengio,2016,On Multiplicative Integration with Recurrent Neural Networks ,"Yuhuai Wu, Saizheng Zhang, Ying Zhang,Russ R. Salakhutdinov",male,no
+Yoshua Bengio,2016,Binarized Neural Networks,"Itay Hubara, Matthieu Courbariaux, Daniel Soudry, Ran El-Yaniv,",male,no
+Yoshua Bengio,2016,Professor Forcing: A New Algorithm for Training Recurrent Networks ,"Alex M. Lamb, Anirudh Goyal ALIAS PARTH GOYAL, Ying Zhang, Saizheng Zhang,
+ Aaron C. Courville",male,no
+Yoshua Bengio,2015, Attention-Based Models for Speech Recognition ,"Jan K. Chorowski, Dzmitry Bahdanau, Dmitriy Serdyuk, Kyunghyun Cho, ",male,no
+Yoshua Bengio,2015, Equilibrated adaptive learning rates for non-convex optimization ,"Yann Dauphin, Harm de Vries,",male,no
+Yoshua Bengio,2015, A Recurrent Latent Variable Model for Sequential Data,"Junyoung Chung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron C. Courville",male,no
+Yoshua Bengio,2015,BinaryConnect: Training Deep Neural Networks with binary weights during propagations ,"Matthieu Courbariaux, Jean-Pierre David",male,no
+Yoshua Bengio,2014, Iterative Neural Autoregressive Distribution Estimator NADE-k ,"Tapani Raiko, Yao Li, Kyunghyun Cho,",male,no
+Yoshua Bengio,2014,Generative Adversarial Nets ,"Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
+ Sherjil Ozair, Aaron Courville",male,no
+Yoshua Bengio,2014,On the Number of Linear Regions of Deep Neural Networks ,"Guido F. Montufar, Razvan Pascanu, Kyunghyun Cho, ",male,no
+Yoshua Bengio,2014,Identifying and attacking the saddle point problem in high-dimensional non-convex optimization ,"Yann N. Dauphin, Razvan Pascanu, Caglar Gulcehre, Kyunghyun Cho, Surya 
+Ganguli",male,no
+Yoshua Bengio,2014,How transferable are features in deep neural networks?,"Jason Yosinski, Jeff Clune,Hod Lipson",male,no
+Yoshua Bengio,2013,Multi-Prediction Deep Boltzmann Machines,"Ian Goodfellow, Mehdi Mirza, Aaron Courville",male,no
+Yoshua Bengio,2013,Generalized Denoising Auto-Encoders as Generative Models,"Li Yao, Guillaume Alain, Pascal Vincent",male,no
+Yoshua Bengio,2013,Stochastic Ratio Matching of RBMs for Sparse High-Dimensional Inputs ,Yann Dauphin,male,no
+Yoshua Bengio,2011, Shallow vs. Deep Sum-Product Networks ,"Olivier Delalleau,",male,no
+Yoshua Bengio,2011,On Tracking The Partition Function ,"Guillaume Desjardins,Aaron C. Courville",male,no
+Yoshua Bengio,2011,Algorithms for Hyper-Parameter Optimization ,"James Bergstra, Rémi Bardenet, Yoshua Bengio, Balázs Kégl",male,no
+Yoshua Bengio,2011,The Manifold Tangent Classifier,"Salah Rifai, Yann N. Dauphin, Pascal Vincent, Xavier Muller",male,no
+Yoshua Bengio,2009,"Slow, Decorrelated Features for Pretraining Complex Cell-like Networks ", James Bergstra,male,no
+Yoshua Bengio,2009,An Infinite Factor Model Hierarchy Via a Noisy-Or Mechanism ,"Douglas Eck, Aaron C. Courville",male,no
+Yoshua Bengio,2007,Topmoumoute Online Natural Gradient Algorithm,"Nicolas Roux, Pierre-antoine Manzagol,",male,no
+Yoshua Bengio,2007,Augmented Functional Time Series Representation and Forecasting with Gaussian Processes ,"Nicolas Chapados, ",male,no
+Yoshua Bengio,2007,Learning the 2-D Topology of Images,"Nicolas Roux, Pascal Lamblin, Marc Joliveau, Balázs Kégl",male,no
+Yoshua Bengio,2006,Greedy Layer-Wise Training of Deep Networks ,"Pascal Lamblin, Dan Popovici, Hugo Larochelle",male,no
+Yoshua Bengio,2005, Convex Neural Networks ,"Nicolas Roux, Pascal Vincent, Olivier Delalleau, Patrice Marcotte",male,no
+Yoshua Bengio,2005,The Curse of Highly Variable Functions for Local Kernel Machines,"Olivier Delalleau, Nicolas Roux",male,no
+Yoshua Bengio,2005,Non-Local Manifold Parzen Windows,"Hugo Larochelle, Pascal Vincent",male,no
+Yoshua Bengio,2004,Non-Local Manifold Tangent Learning,Martin Monperrus,male,no
+Yoshua Bengio,2004,Semi-supervised Learning by Entropy Minimization,"Yves Grandvalet,",male,no
+Yoshua Bengio,2004,Brain Inspired Reinforcement Learning ,"Françcois Rivest, John Kalaska",male,no
+Yoshua Bengio,2003,"Out-of-Sample Extensions for LLE, Isomap, MDS, Eigenmaps, and Spectral Clustering","Jean-françcois Paiement, Pascal Vincent, Olivier Delalleau, Nicolas Roux, Marie
+ Ouimet",male,no
+Yoshua Bengio,2003,No Unbiased Estimator of the Variance of K-Fold Cross-Validation ,"Yves Grandvalet,",male,no
+Yoshua Bengio,2002,Manifold Parzen Windows ,Pascal Vincent,male,no
+Yoshua Bengio,2001,A Parallel Mixture of SVMs for Very Large Scale Problems ,"Ronan Collobert, Samy Bengio",male,no
+Yoshua Bengio,2001, K-Local Hyperplane and Convex Distance Nearest Neighbor Algorithms,"Pascal Vincent, ",male,no
+Yoshua Bengio,2001,Estimating Car Insurance Premia: a Case Study in High-Dimensional Data Inference ,"Nicolas Chapados, Pascal Vincent, Joumana Ghosn, Charles Dugas, Ichiro 
+Takeuchi, Linyan Meng",male,no
+Yoshua Bengio,2000, A Neural Probabilistic Language Model,"Réjean Ducharme, Pascal Vincent",male,no
+Yoshua Bengio,2000,Incorporating Second-Order Functional Knowledge for Better Option Pricing ,"Charles Dugas,François Bélisle, Claude Nadeau, René Garcia
+",male,no
+Yoshua Bengio,1999,Inference for the Generalization Error ,Claude Nadeau,male,no
+Yoshua Bengio,1999,Modeling High-Dimensional Discrete Data with Multi-Layer Neural Networks ,Samy Bengio,male,no
+Yoshua Bengio,1997,Training Methods for Adaptive Boosting of Neural Networks ,Holger Schwenk,male,no
+Yoshua Bengio,1997,Shared Context Probabilistic Transducers ," Samy Bengio, Jean-Franc Isabelle, Yoram Singer",male,no
+Yoshua Bengio,1996, Multi-Task Learning for Stock Selection,Joumana Ghosn,male,no
+Yoshua Bengio,1995,Recurrent Neural Networks for Missing or Asynchronous Data ,Francois Gingras,male,no
+Yoshua Bengio,1995, Hierarchical Recurrent Neural Networks for Long-Term Dependencies,Salah Hihi,male,no
+Yoshua Bengio,1994,An Input Output HMM Architecture ,Paolo Frasconi,male,no
+Yoshua Bengio,1994,Convergence Properties of the K-Means Algorithms,"Léon Bottou,",male,no
+Yoshua Bengio,1994,Diffusion of Credit in Markovian Models,Paolo Frasconi,male,no
+Yoshua Bengio,1993,Credit Assignment through Time: Alternatives to Backpropagation ,Paolo Frasconi,male,no
+Yoshua Bengio,1993,"Globally Trained Handwritten Word Recognizer using Spatial Representation, Convolutional Neural 
+Networks, and Hidden Markov Models","Yann LeCun, Donnie Henderson",male,no
+Yoshua Bengio,1991,Neural Network - Gaussian Mixture Hybrid for Speech Recognition or Density Estimation ,"Renato De Mori, Giovanni Flammia, Ralf Kompe",male,no
+Yoshua Bengio,1989,A Neural Network to Detect Homologies in Proteins ,"Samy Bengio, Yannick Pouliot, Patrick Agin",male,no
+Yoshua Bengio,1989,Speaker Independent Speech Recognition with Neural Networks and Speech Knowledge ,"Renato de Mori, Régis Cardin",male,no
+Yoshua Bengio,1988,Use of Multi-Layered Networks for Coding Speech with Phonetic Features,"Régis Cardin, Renato de Mori, Piero Cosi",male,no
