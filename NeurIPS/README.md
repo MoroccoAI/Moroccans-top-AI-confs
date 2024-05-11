@@ -11,12 +11,16 @@
 * El Mahdi El Mhamdi: 3
 * Aymen Al Marjani: 3
 
-# Papers with at least an author from a Morocco-based affiliation: 
+# Papers with at least an author from a Morocco-based affiliation
 Total number : 1
 
 * UM6P:
   * [Free Probability for predicting the performance of feed-forward fully connected neural networks](https://papers.nips.cc/paper_files/paper/2022/hash/10826a1a80f816ea98d559d7c7a97973-Abstract-Conference.html) Reda CHHAIBI, **Tariq Daouda**, Ezechiel Kahn
-  
+
+# Paper Awards
+ * Outstanding Main Track Runner-Ups:
+   * [Scaling Data-Constrained Language Models](https://papers.nips.cc/paper_files/paper/2023/hash/9d89448b63ce1e2e8dc7af72c984c196-Abstract-Conference.html). Niklas Muennighoff, Alexander Rush, Boaz Barak, Teven Le Scao, **Nouamane Tazi**, Aleksandra Piktus, Sampo Pyysalo, Thomas Wolf, Colin A. Raffel
+
 # Miscellanous
 #### Paper with the most Moroccan co-authors:
 * [Improving *day-ahead* Solar Irradiance Time Series Forecasting by Leveraging Spatio-Temporal Context](https://papers.nips.cc/paper_files/paper/2023/hash/070a57c5ef1e58cc90201b11d369b3c2-Abstract-Conference.html). **Oussama Boussif**, **Ghait Boukachab**, Dan Assouline, Stefano Massaroli, Tianle Yuan, **Loubna Benabbou**, **Yoshua Bengio**
@@ -32,6 +36,7 @@ TODO: add Yoshua Bengio's papers
     * [Robust Distributed Learning: Tight Error Bounds and Breakdown Point under Data Heterogeneity](https://papers.nips.cc/paper_files/paper/2023/hash/8f182e220092f7f1fc44f3313023f5a0-Abstract-Conference.html). Youssef Allouah, **Rachid Guerraoui**, Nirupam Gupta, Rafael Pinot, Geovani Rizk
     * [Epidemic Learning: Boosting Decentralized Learning with Randomized Communication](https://papers.nips.cc/paper_files/paper/2023/hash/7172e147d916eef4cb1eb30016ce725f-Abstract-Conference.html). Martijn De Vos, Sadegh Farhadkhani, **Rachid Guerraoui**, Anne-marie Kermarrec, Rafael Pires, Rishi Sharma
     * [Improving *day-ahead* Solar Irradiance Time Series Forecasting by Leveraging Spatio-Temporal Context](https://papers.nips.cc/paper_files/paper/2023/hash/070a57c5ef1e58cc90201b11d369b3c2-Abstract-Conference.html). **Oussama Boussif**, Ghait Boukachab, Dan Assouline, Stefano Massaroli, Tianle Yuan, Loubna Benabbou, Yoshua Bengio
+    * [Scaling Data-Constrained Language Models](https://papers.nips.cc/paper_files/paper/2023/hash/9d89448b63ce1e2e8dc7af72c984c196-Abstract-Conference.html). Niklas Muennighoff, Alexander Rush, Boaz Barak, Teven Le Scao, **Nouamane Tazi**, Aleksandra Piktus, Sampo Pyysalo, Thomas Wolf, Colin A. Raffel
     * [On the Complexity of Differentially Private Best-Arm Identification with Fixed Confidence](https://papers.nips.cc/paper_files/paper/2023/hash/e14de1a0ebc31d9b989f5f5528c125bb-Abstract-Conference.html). **Achraf Azize**, Marc Jourdan, Aymen Al Marjani, Debabrota Basu
     * [Robustifying Generalizable Implicit Shape Networks with a Tunable Non-Parametric Model](https://papers.nips.cc/paper_files/paper/2023/hash/525c95ffca1f57a10e3527d3584f3cf1-Abstract-Conference.html). **Amine Ouasfi**, **Adnane Boukhayma**
     * [Covariance-adaptive best arm identification](https://papers.nips.cc/paper_files/paper/2023/hash/e82ef7865f29b40640f486bbbe7959a7-Abstract-Conference.html). **El Mehdi Saad**, Gilles Blanchard, Nicolas Verzelen
