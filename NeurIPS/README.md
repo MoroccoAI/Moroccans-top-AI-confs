@@ -33,11 +33,11 @@ TODO: add Yoshua Bengio's papers
 
 - 2023:
     * [Transformers learn through gradual rank increase](https://papers.nips.cc/paper_files/paper/2023/hash/4d69c1c057a8bd570ba4a7b71aae8331-Abstract-Conference.html). Emmanuel Abbe, **Samy Bengio**, Enric Boix-Adsera, Etai Littwin, Joshua Susskind
-    * [Robust Distributed Learning: Tight Error Bounds and Breakdown Point under Data Heterogeneity](https://papers.nips.cc/paper_files/paper/2023/hash/8f182e220092f7f1fc44f3313023f5a0-Abstract-Conference.html). Youssef Allouah, **Rachid Guerraoui**, Nirupam Gupta, Rafael Pinot, Geovani Rizk
+    * [Robust Distributed Learning: Tight Error Bounds and Breakdown Point under Data Heterogeneity](https://papers.nips.cc/paper_files/paper/2023/hash/8f182e220092f7f1fc44f3313023f5a0-Abstract-Conference.html). **Youssef Allouah**, **Rachid Guerraoui**, Nirupam Gupta, Rafael Pinot, Geovani Rizk
     * [Epidemic Learning: Boosting Decentralized Learning with Randomized Communication](https://papers.nips.cc/paper_files/paper/2023/hash/7172e147d916eef4cb1eb30016ce725f-Abstract-Conference.html). Martijn De Vos, Sadegh Farhadkhani, **Rachid Guerraoui**, Anne-marie Kermarrec, Rafael Pires, Rishi Sharma
-    * [Improving *day-ahead* Solar Irradiance Time Series Forecasting by Leveraging Spatio-Temporal Context](https://papers.nips.cc/paper_files/paper/2023/hash/070a57c5ef1e58cc90201b11d369b3c2-Abstract-Conference.html). **Oussama Boussif**, Ghait Boukachab, Dan Assouline, Stefano Massaroli, Tianle Yuan, Loubna Benabbou, Yoshua Bengio
+    * [Improving *day-ahead* Solar Irradiance Time Series Forecasting by Leveraging Spatio-Temporal Context](https://papers.nips.cc/paper_files/paper/2023/hash/070a57c5ef1e58cc90201b11d369b3c2-Abstract-Conference.html). **Oussama Boussif**, **Ghait Boukachab**, Dan Assouline, Stefano Massaroli, Tianle Yuan, **Loubna Benabbou**, **Yoshua Bengio**
     * [Scaling Data-Constrained Language Models](https://papers.nips.cc/paper_files/paper/2023/hash/9d89448b63ce1e2e8dc7af72c984c196-Abstract-Conference.html). Niklas Muennighoff, Alexander Rush, Boaz Barak, Teven Le Scao, **Nouamane Tazi**, Aleksandra Piktus, Sampo Pyysalo, Thomas Wolf, Colin A. Raffel
-    * [On the Complexity of Differentially Private Best-Arm Identification with Fixed Confidence](https://papers.nips.cc/paper_files/paper/2023/hash/e14de1a0ebc31d9b989f5f5528c125bb-Abstract-Conference.html). **Achraf Azize**, Marc Jourdan, Aymen Al Marjani, Debabrota Basu
+    * [On the Complexity of Differentially Private Best-Arm Identification with Fixed Confidence](https://papers.nips.cc/paper_files/paper/2023/hash/e14de1a0ebc31d9b989f5f5528c125bb-Abstract-Conference.html). **Achraf Azize**, Marc Jourdan, **Aymen Al Marjani**, Debabrota Basu
     * [Robustifying Generalizable Implicit Shape Networks with a Tunable Non-Parametric Model](https://papers.nips.cc/paper_files/paper/2023/hash/525c95ffca1f57a10e3527d3584f3cf1-Abstract-Conference.html). **Amine Ouasfi**, **Adnane Boukhayma**
     * [Covariance-adaptive best arm identification](https://papers.nips.cc/paper_files/paper/2023/hash/e82ef7865f29b40640f486bbbe7959a7-Abstract-Conference.html). **El Mehdi Saad**, Gilles Blanchard, Nicolas Verzelen
     * [An active learning framework for multi-group mean estimation](https://papers.nips.cc/paper_files/paper/2023/hash/67390075fe466276797f489115582cdc-Abstract-Conference.html). **Abdellah Aznag**, Rachel Cummings, Adam N. Elmachtoub
@@ -49,7 +49,7 @@ TODO: add Yoshua Bengio's papers
   * [Learning to Reason with Neural Networks: Generalization, Unseen Data and Boolean Measures](https://papers.nips.cc/paper_files/paper/2022/hash/d4e1c24ac41ff0b82ca1b171731f0b23-Abstract-Conference.html) Emmanuel Abbe, **Samy Bengio**, Elisabetta Cornacchia, Jon Kleinberg, Aryo Lotfi, Maithra Raghu, Chiyuan Zhang
   * [Efficient and Effective Optimal Transport-Based Biclustering](https://papers.nips.cc/paper_files/paper/2022/hash/d4e1c24ac41ff0b82ca1b171731f0b23-Abstract-Conference.html) Chakib Fettal, lazhar labiod, **Mohamed NADIF**
   * [Deep Compression of Pre-trained Transformer Models](https://papers.nips.cc/paper_files/paper/2022/hash/5b5618e7d061748267d74478b7c5b1ab-Abstract-Conference.html) Naigang Wang, Chi-Chun (Charlie) Liu, Swagath Venkataramani, Sanchari Sen, Chia-Yu Chen, **Kaoutar El Maghraoui**, Vijayalakshmi (Viji) Srinivasan, Leland Chang
-  * [MAgNet: Mesh Agnostic Neural PDE Solver](https://papers.nips.cc/paper_files/paper/2022/hash/cf4c7ee0734cdfe09a099cf6cd7b117a-Abstract-Conference.html) **Oussama Boussif**, Yoshua Bengio, Loubna Benabbou, Dan Assouline
+  * [MAgNet: Mesh Agnostic Neural PDE Solver](https://papers.nips.cc/paper_files/paper/2022/hash/cf4c7ee0734cdfe09a099cf6cd7b117a-Abstract-Conference.html) **Oussama Boussif**, **Yoshua Bengio**, **Loubna Benabbou**, Dan Assouline
   * [PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization](https://papers.nips.cc/paper_files/paper/2022/hash/cbeec55c50c3367024bafab2438a021b-Abstract-Conference.html) **Sanae Lotfi**, Marc Finzi, Sanyam Kapoor, Andres Potapczynski, Micah Goldblum, Andrew G. Wilson
   * [A general approximation lower bound in Lp norm, with applications to feed-forward neural networks](https://papers.nips.cc/paper_files/paper/2022/hash/8caa10fb546ae38b3d3f0d32ecc866f0-Abstract-Conference.html) **El Mehdi Achour**, Armand Foucault, Sébastien Gerchinovitz, François Malgouyres
   * [The Franz-Parisi Criterion and Computational Trade-offs in High Dimensional Statistics](https://papers.nips.cc/paper_files/paper/2022/hash/daff682411a64632e083b9d6665b1d30-Abstract-Conference.html) Afonso S Bandeira, **Ahmed El Alaoui**, Samuel Hopkins, Tselil Schramm, Alexander S Wein, Ilias Zadik
@@ -71,10 +71,10 @@ TODO: add Yoshua Bengio's papers
   * [Navigating to the Best Policy in Markov Decision Processes](https://papers.nips.cc/paper_files/paper/2021/hash/d9896106ca98d3d05b8cbdf4fd8b13a1-Abstract.html) **Aymen Al Marjani**, Aurélien Garivier, Alexandre Proutiere
   * [Online Sign Identification: Minimization of the Number of Errors in Thresholding Bandits](https://papers.nips.cc/paper_files/paper/2021/hash/9a3f54913bf27e648d1759c18d007165-Abstract.html) **Reda Ouhamma**, Odalric-Ambrym Maillard, Vianney Perchet
   * [Stochastic Online Linear Regression: the Forward Algorithm to Replace Ridge](https://papers.nips.cc/paper_files/paper/2021/hash/cca289d2a4acd14c1cd9a84ffb41dd29-Abstract.html) **Reda Ouhamma**, Odalric-Ambrym Maillard, Vianney Perchet
-  * [Sequential Algorithms for Testing Closeness of Distributions](https://papers.nips.cc/paper_files/paper/2021/hash/609c5e5089a9aa967232aba2a4d03114-Abstract.html) Aadil Oufkir, **Omar Fawzi**, Nicolas Flammarion, Aurélien Garivier
+  * [Sequential Algorithms for Testing Closeness of Distributions](https://papers.nips.cc/paper_files/paper/2021/hash/609c5e5089a9aa967232aba2a4d03114-Abstract.html) **Aadil Oufkir**, Omar Fawzi, Nicolas Flammarion, Aurélien Garivier
   * [Regularization in ResNet with Stochastic Depth](https://papers.nips.cc/paper_files/paper/2021/hash/82ba9d6eee3f026be339bb287651c3d8-Abstract.html) **Soufiane Hayou**, Fadhel Ayed
   * [Deconditional Downscaling with Gaussian Processes](https://papers.nips.cc/paper_files/paper/2021/hash/94aef38441efa3380a3bed3faf1f9d5d-Abstract.html) Siu Lun Chau, **Shahine Bouabid**, Dino Sejdinovic
-  * [Supervising the Transfer of Reasoning Patterns in VQA](https://papers.nips.cc/paper_files/paper/2021/hash/9766527f2b5d3e95d4a733fcfb77bd7e-Abstract.html) Corentin Kervadec, Christian Wolf, Grigory Antipov, **Moez Baccouche**, Madiha Nadri
+  * [Supervising the Transfer of Reasoning Patterns in VQA](https://papers.nips.cc/paper_files/paper/2021/hash/9766527f2b5d3e95d4a733fcfb77bd7e-Abstract.html) Corentin Kervadec, Christian Wolf, Grigory Antipov, Moez Baccouche, **Madiha Nadri**
   * [Fast rates for prediction with limited expert advice](https://papers.nips.cc/paper_files/paper/2021/hash/c688defd45ad6638febd469adb09ddf7-Abstract.html) **El Mehdi Saad**, Gilles Blanchard
   * [An analysis of Ermakov-Zolotukhin quadrature using kernels](https://papers.nips.cc/paper_files/paper/2021/hash/e531e258fe3098c3bdd707c30a687d73-Abstract.html) **Ayoub Belhadji**
 - 2020:
@@ -98,8 +98,8 @@ TODO: add Yoshua Bengio's papers
   * [Large Margin Deep Networks for Classification](https://papers.nips.cc/paper_files/paper/2018/hash/42998cf32d552343bc8e460416382dca-Abstract.html) Gamaleldin Elsayed, Dilip Krishnan, Hossein Mobahi, Kevin Regan, **Samy Bengio**
   * [Unsupervised Attention-guided Image-to-Image Translation](https://papers.nips.cc/paper_files/paper/2018/hash/4e87337f366f72daa424dae11df0538c-Abstract.html) **Youssef Alami Mejjati**, Christian Richardt, James Tompkin, Darren Cosker, Kwang In Kim
 - 2017:
-  * [Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent](https://papers.nips.cc/paper_files/paper/2017/hash/812b4ba287f5ee0bc9d43bbf5bbe87fb-Abstract.html) Peva Blanchard, El Mahdi El Mhamdi, **Rachid Guerraoui**, Julien Stainer
-  * [Dynamic Safe Interruptibility for Decentralized Multi-Agent Reinforcement Learning](https://papers.nips.cc/paper_files/paper/2017/hash/f4b9ec30ad9f68f89b29639786cb62ef-Abstract.html) El Mahdi El Mhamdi, **Rachid Guerraoui**, Hadrien Hendrikx, Alexandre Maurer
+  * [Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent](https://papers.nips.cc/paper_files/paper/2017/hash/812b4ba287f5ee0bc9d43bbf5bbe87fb-Abstract.html) Peva Blanchard, **El Mahdi El Mhamdi**, **Rachid Guerraoui**, Julien Stainer
+  * [Dynamic Safe Interruptibility for Decentralized Multi-Agent Reinforcement Learning](https://papers.nips.cc/paper_files/paper/2017/hash/f4b9ec30ad9f68f89b29639786cb62ef-Abstract.html) **El Mahdi El Mhamdi**, **Rachid Guerraoui**, Hadrien Hendrikx, Alexandre Maurer
   * [Beyond Worst-case: A Probabilistic Analysis of Affine Policies in Dynamic Optimization](https://papers.nips.cc/paper_files/paper/2017/hash/01a0683665f38d8e5e567b3b15ca98bf-Abstract.html) **Omar El Housni**, Vineet Goyal
 - 2016:
   * [Reward Augmented Maximum Likelihood for Neural Structured Prediction](https://papers.nips.cc/paper_files/paper/2016/hash/2f885d0fbe2e131bfc9d98363e55d1d4-Abstract.html) Mohammad Norouzi, **Samy Bengio**, zhifeng Chen, Navdeep Jaitly, Mike Schuster, Yonghui Wu, Dale Schuurmans
@@ -109,7 +109,7 @@ TODO: add Yoshua Bengio's papers
   * [A Multi-step Inertial Forward-Backward Splitting Method for Non-convex Optimization](https://papers.nips.cc/paper_files/paper/2016/hash/ea6b2efbdd4255a9f1b3bbc6399b58f4-Abstract.html) Jingwei Liang, **Jalal Fadili**, Gabriel Peyré
 - 2015:
   * [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https://papers.nips.cc/paper_files/paper/2015/hash/e995f98d56967d946471af29d7bf99f1-Abstract.html) **Samy Bengio**, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer
-  * [Fast Randomized Kernel Ridge Regression with Statistical Guarantees](https://papers.nips.cc/paper_files/paper/2015/hash/f3f27a324736617f20abbf2ffd806f6d-Abstract.html) A**hmed Alaoui**, Michael W. Mahoney
+  * [Fast Randomized Kernel Ridge Regression with Statistical Guarantees](https://papers.nips.cc/paper_files/paper/2015/hash/f3f27a324736617f20abbf2ffd806f6d-Abstract.html) **Ahmed Alaoui**, Michael W. Mahoney
 - 2014:
   * [Local Linear Convergence of Forward--Backward under Partial Smoothness](https://papers.nips.cc/paper_files/paper/2014/hash/522a9ae9a99880d39e5daec35375e999-Abstract.html) Jingwei Liang, **Jalal Fadili**, Gabriel Peyré
 - 2013:
@@ -130,14 +130,14 @@ TODO: add Yoshua Bengio's papers
 - 2002:
   * [An Asynchronous Hidden Markov Model for Audio-Visual Speech Recognition](https://papers.nips.cc/paper_files/paper/2002/hash/2b45c629e577731c4df84fc34f936a89-Abstract.html) **Samy Bengio**
 - 2001:
-  * [A Parallel Mixture of SVMs for Very Large Scale Problems](https://papers.nips.cc/paper_files/paper/2001/hash/36ac8e558ac7690b6f44e2cb5ef93322-Abstract.html) Ronan Collobert, **Samy Bengio**, Yoshua Bengio
+  * [A Parallel Mixture of SVMs for Very Large Scale Problems](https://papers.nips.cc/paper_files/paper/2001/hash/36ac8e558ac7690b6f44e2cb5ef93322-Abstract.html) Ronan Collobert, **Samy Bengio**, **Yoshua Bengio**
 - 2000:
   * [New Approaches Towards Robust and Adaptive Speech Recognition](https://papers.nips.cc/paper_files/paper/2000/hash/cb79f8fa58b91d3af6c9c991f63962d3-Abstract.html) Hervé Bourlard, **Samy Bengio**, Katrin Weber
 - 1999:
-  * [Modeling High-Dimensional Discrete Data with Multi-Layer Neural Networks](https://papers.nips.cc/paper_files/paper/1999/hash/e6384711491713d29bc63fc5eeb5ba4f-Abstract.html) Yoshua Bengio, **Samy Bengio**
+  * [Modeling High-Dimensional Discrete Data with Multi-Layer Neural Networks](https://papers.nips.cc/paper_files/paper/1999/hash/e6384711491713d29bc63fc5eeb5ba4f-Abstract.html) **Yoshua Bengio**, **Samy Bengio**
 - 1997:
-  * [Shared Context Probabilistic Transducers](https://papers.nips.cc/paper_files/paper/1997/hash/bad5f33780c42f2588878a9d07405083-Abstract.html) Yoshua Bengio, **Samy Bengi**o, Jean-Franc Isabelle, Yoram Singer
+  * [Shared Context Probabilistic Transducers](https://papers.nips.cc/paper_files/paper/1997/hash/bad5f33780c42f2588878a9d07405083-Abstract.html) **Yoshua Bengio**, **Samy Bengio**, Jean-Franc Isabelle, Yoram Singer
 - 1990:
   * [Speech Recognition Using Connectionist Approaches](https://papers.nips.cc/paper_files/paper/1990/hash/a01a0380ca3c61428c26a231f0e49a09-Abstract.html) **Khalid Choukri**
 - 1989:
-  * [A Neural Network to Detect Homologies in Proteins](https://papers.nips.cc/paper_files/paper/1989/hash/ca46c1b9512a7a8315fa3c5a946e8265-Abstract.html) Yoshua Bengio, **Samy Bengio**, Yannick Pouliot, Patrick Agin
+  * [A Neural Network to Detect Homologies in Proteins](https://papers.nips.cc/paper_files/paper/1989/hash/ca46c1b9512a7a8315fa3c5a946e8265-Abstract.html) **Yoshua Bengio**, **Samy Bengio**, Yannick Pouliot, Patrick Agin
