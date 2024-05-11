@@ -17,10 +17,13 @@ Samy Bengio,2016,Reward Augmented Maximum Likelihood for Neural Structured Predi
 Samy Bengio,2016,Can Active Memory Replace Attention?,"Łukasz Kaiser,",male,no
 Samy Bengio,2016,An Online Sequence-to-Sequence Model Using Partial Conditioning ,"Navdeep Jaitly, Quoc V. Le, Oriol Vinyals, Ilya Sutskever, 
 David Sussillo",male,no
-Samy Bengio,2015,Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks," Oriol Vinyals, Navdeep Jaitly, Noam Shazeer",male,no
-Samy Bengio,2010,Label Embedding Trees for Large Multi-Class Tasks,"Jason Weston, David Grangier",male,no
+Samy Bengio,2015,Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks," Oriol Vinyals, Navdeep Jaitly, Noam Shazeer
+",male,no
+Samy Bengio,2010,Label Embedding Trees for Large Multi-Class Tasks,"Jason Weston, David Grangier
+",male,no
 Samy Bengio,2009,An Online Algorithm for Large Scale Image Similarity Learning ,"Gal Chechik, Uri Shalit, Varun Sharma",male,no
-Samy Bengio,2009,Group Sparse Coding ,"Fernando Pereira, Yoram Singer, Dennis Strelow",male,no
+Samy Bengio,2009,Group Sparse Coding ,"Fernando Pereira, Yoram Singer, Dennis Strelow
+",male,no
 Samy Bengio,2005,A Probabilistic Interpretation of SVMs with an Application to Unbalanced Classification,"Yves Grandvalet, Johnny Mariethoz",male,no
 Samy Bengio,2005,Benchmarking Non-Parametric Statistical Tests," Mikaela Keller,Siew Wong",male,no
 Samy Bengio,2005,Learning Influence among Interacting Markov Chains,"Dong Zhang, Daniel Gatica-perez, Deb Roy
@@ -50,15 +53,18 @@ Asynchronous and Nonconvex Learning)","El Mahdi El-Mhamdi, Sadegh Farhadkhani,, 
 Khalid Choukri,1990,Speech Recognition Using Connectionist Approaches ,,male,no
 Jalal Fadili,2016,Sparse Support Recovery with Non-smooth Loss Functions,"Kévin Degraux, Gabriel Peyré, Laurent Jacques
 ",male,no
-Jalal Fadili,2016,A Multi-step Inertial Forward-Backward Splitting Method for Non-convex Optimization ,"Jingwei Liang, Jalal Fadili, Gabriel Peyré",male,no
+Jalal Fadili,2016,A Multi-step Inertial Forward-Backward Splitting Method for Non-convex Optimization ,"Jingwei Liang, Jalal Fadili, Gabriel Peyré
+",male,no
 Jalal Fadili,2014,Local Linear Convergence of Forward--Backward under Partial Smoothness ,"ingwei Liang, Gabriel Peyré",male,no
 Jalal Fadili,2012,A quasi-Newton proximal splitting method,"Stephen Becker,",male,no
-Karim Filali,2006,Multi-dynamic Bayesian Networks,"Jeff A. Bilmes",male,no
+Karim Filali,2006,Multi-dynamic Bayesian Networks,"Jeff A. Bilmes
+",male,no
 El Mahdi El Mhamdi,2021,"Collaborative Learning in the Jungle (Decentralized, Byzantine, Heterogeneous, 
 Asynchronous and Nonconvex Learning)","Sadegh Farhadkhani, Rachid Guerraoui, Arsany Guirguis,
  Lê-Nguyên Hoang, Sébastien Rouault",male,no
 El Mahdi El Mhamdi,2017,Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent ,"Peva Blanchard, Rachid Guerraoui, Julien Stainer",male,no
-El Mahdi El Mhamdi,2017,Dynamic Safe Interruptibility for Decentralized Multi-Agent Reinforcement Learning," Rachid Guerraoui, Hadrien Hendrikx, Alexandre Maurer",male,no
+El Mahdi El Mhamdi,2017,Dynamic Safe Interruptibility for Decentralized Multi-Agent Reinforcement Learning," Rachid Guerraoui, Hadrien Hendrikx, Alexandre Maurer
+",male,no
 Aymen Al Marjani,2023,On the Complexity of Differentially Private Best-Arm Identification with Fixed Confidence,"Achraf Azize, Marc Jourdan, Debabrota Basu
 ",male,no
 Aymen Al Marjani,2021,Navigating to the Best Policy in Markov Decision Processes,"Aurélien Garivier, Alexandre Proutiere",male,no
@@ -92,13 +98,15 @@ Andrew G. Wilson
 ",female,no
 Sanae Lotfi,2021,Dangers of Bayesian Model Averaging under Covariate Shift,"Pavel Izmailov, Patrick Nicholson, Andrew G. Wilson
 ",female,no
+Nouamane Tazi,2023,Scaling Data-Constrained Language Models,"Niklas Muennighoff, Alexander Rush, Boaz Barak, Teven Le Scao, Aleksandra Piktus, Sampo Pyysalo, Thomas Wolf, Colin A. Raffel",male,no
 Youssef Allouah,2023,"Robust Distributed Learning: Tight Error Bounds and Breakdown Point under
  Data Heterogeneity ","Rachid Guerraoui, Nirupam Gupta, Rafael Pinot, Geovani Rizk",male,no
 Achraf Azize,2023,On the Complexity of Differentially Private Best-Arm Identification with Fixed Confidence," Marc Jourdan, Aymen Al Marjani, Debabrota Basu
 ",male,no
 Achraf Azize,2022,When Privacy Meets Partial Information: A Refined Analysis of Differentially Private Bandits,Debabrota Basu,male,no
 Amine Ouasfi,2023,Robustifying Generalizable Implicit Shape Networks with a Tunable Non-Parametric Model,Adnane Boukhayma,male,no
-El Mehdi Saad,2023,Covariance-adaptive best arm identification,"Gilles Blanchard, Nicolas Verzelen",male,no
+El Mehdi Saad,2023,Covariance-adaptive best arm identification,"Gilles Blanchard, Nicolas Verzelen
+",male,no
 Abdellah Aznag,2023,An active learning framework for multi-group mean estimation,"Rachel Cummings, Adam N. Elmachtoub",male,no
 Adnane Boukhayma,2023,Robustifying Generalizable Implicit Shape Networks with a Tunable Non-Parametric Model,Amine Ouasfi,male,no
 Ismail Nejjar,2023,SimMMDG: A Simple and Effective Framework for Multi-modal Domain Generalization,"Hao Dong, Han Sun, Eleni Chatzi, Olga Fink",male,no
@@ -128,30 +136,41 @@ Rida Laraki,2022,Smooth Fictitious Play in Stochastic Games with Perturbed Payof
 Othmane Marfoq,2021,Federated Multi-Task Learning under a Mixture of Distributions," Giovanni Neglia, Aurélien Bellet, Laetitia Kameni, Richard Vidal",male,no
 Othman Sbai,2021,Re-ranking for image retrieval and transductive few-shot classification,"Xi SHEN, Yang Xiao, Shell Xu Hu, Mathieu Aubry
 ",male,no
-Reda Ouhamma,2021,Online Sign Identification: Minimization of the Number of Errors in Thresholding Bandits ,"Odalric-Ambrym Maillard, Vianney Perchet",male,no
+Reda Ouhamma,2021,Online Sign Identification: Minimization of the Number of Errors in Thresholding Bandits ,"Odalric-Ambrym Maillard, Vianney Perchet
+",male,no
 Reda Ouhamma,2021,Stochastic Online Linear Regression: the Forward Algorithm to Replace Ridge," Odalric-Ambrym Maillard, Vianney Perchet",male,no
 Aadil Oufkir,2021,Sequential Algorithms for Testing Closeness of Distributions ,"Omar Fawzi, Nicolas Flammarion, Aurélien Garivier",male,no
-Soufiane Hayou,2021,Regularization in ResNet with Stochastic Depth," Fadhel Ayed",male,no
+Soufiane Hayou,2021,Regularization in ResNet with Stochastic Depth," Fadhel Ayed
+",male,no
 Shahine Bouabid,2021,Deconditional Downscaling with Gaussian Processes ,"Siu Lun Chau, Dino Sejdinovic
 ",male,no
 Madiha Nadri,2021,Supervising the Transfer of Reasoning Patterns in VQA ,"Corentin Kervadec, Christian Wolf, Grigory Antipov,,Moez Baccouche",female,no
-El Mehdi Saad,2021,Fast rates for prediction with limited expert advice ,"Gilles Blanchard",male,no
-"Ayoub Belhadji",2021,An analysis of Ermakov-Zolotukhin quadrature using kernels,,male,no
-Othmane Marfoq,2020,Throughput-Optimal Topology Design for Cross-Silo Federated Learning," CHUAN XU, Giovanni Neglia, Richard Vidal",male,no
+El Mehdi Saad,2021,Fast rates for prediction with limited expert advice ,"Gilles Blanchard
+",male,no
+"Ayoub Belhadji
+",2021,An analysis of Ermakov-Zolotukhin quadrature using kernels,,male,no
+Othmane Marfoq,2020,Throughput-Optimal Topology Design for Cross-Silo Federated Learning," CHUAN XU, Giovanni Neglia, Richard Vidal
+",male,no
 Hicham Janati,2020,Entropic Optimal Transport between Unbalanced Gaussian Measures has a Closed Form ,"Boris Muzellec, Gabriel Peyré, Marco Cuturi
 ",male,no
 Ayman Boustati,2020,VarGrad: A Low-Variance Gradient Estimator for Variational Inference ,"Lorenz Richter, Nikolas Nüsken, Francisco Ruiz, Omer Deniz Akyildiz
 ",male,no
 Ayman Boustati,2020,Generalised Bayesian Filtering via Sequential Monte Carlo,"Omer Deniz Akyildiz, Theodoros Damoulas, Adam Johansen",male,no
-Yassir Jedra,2020,Optimal Best-arm Identification in Linear Bandits ,"Alexandre Proutiere",male,no
+Yassir Jedra,2020,Optimal Best-arm Identification in Linear Bandits ,"Alexandre Proutiere
+",male,no
 Achraf Bahamou,2020,Practical Quasi-Newton Methods for Training Deep Neural Networks ,Donald Goldfarb,male,no
-Othmane Sebbouh,2019,Towards closing the gap between the theory and practice of SVRG ,"Nidham Gazagnadou, Samy Jelassi, Francis Bach, Robert Gower",male,no
+Othmane Sebbouh,2019,Towards closing the gap between the theory and practice of SVRG ,"Nidham Gazagnadou, Samy Jelassi, Francis Bach, Robert Gower
+",male,no
 Othman El Balghiti,2019,Generalization Bounds in the Predict-then-Optimize Framework,"Adam N. Elmachtoub, Paul Grigas, Ambuj Tewari",male,no
 Mohamed Belghazi,2019,Learning about an exponential amount of conditional distributions ,"Maxime Oquab, David Lopez-Paz",male,no
-"Ayoub Belhadji",2019,Kernel quadrature with DPPs,"Rémi Bardenet, Pierre Chainais",male,no
-Youssef Alami Mejjati,2018,Unsupervised Attention-guided Image-to-Image Translation ," Christian Richardt, James Tompkin, Darren Cosker, Kwang In Kim",male,no
+"Ayoub Belhadji
+",2019,Kernel quadrature with DPPs,"Rémi Bardenet, Pierre Chainais
+",male,no
+Youssef Alami Mejjati,2018,Unsupervised Attention-guided Image-to-Image Translation ," Christian Richardt, James Tompkin, Darren Cosker, Kwang In Kim
+",male,no
 Omar El Housni,2017,Beyond Worst-case: A Probabilistic Analysis of Affine Policies in Dynamic Optimization, Vineet Goyal,male,no
-Ahmed Alaoui,2015,Fast Randomized Kernel Ridge Regression with Statistical Guarantees ," Michael W. Mahoney",male,no
+Ahmed Alaoui,2015,Fast Randomized Kernel Ridge Regression with Statistical Guarantees ," Michael W. Mahoney
+",male,no
 Karim Filali,2006,Multi-dynamic Bayesian Networks," Jeff A. Bilmes
 ",male,no
 Yoshua Bengio,2023, Let the Flows Tell: Solving Graph Combinatorial Problems with GFlowNets ,"Dinghuai Zhang, Hanjun Dai, Nikolay Malkin, Aaron C. Courville, , Ling Pan",male,no
