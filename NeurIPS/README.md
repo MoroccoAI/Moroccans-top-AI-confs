@@ -44,6 +44,7 @@ TODO: add Yoshua Bengio's papers
     * [MTGS: A Novel Framework for Multi-Person Temporal Gaze Following and Social Gaze Prediction](https://nips.cc/virtual/2024/poster/96265). Anshul Gupta, **Samy Tafasca**, Arya Farkhondeh, Pierre Vuillecard, Jean-marc Odobez
     * [Toward Semantic Gaze Target Detection](https://nips.cc/virtual/2024/poster/96207). **Samy Tafasca**, Anshul Gupta, Victor Bros, Jean-marc Odobez
     * [How Far Can Transformers Reason? The Locality Barrier and Inductive Scratchpad](https://nips.cc/virtual/2024/poster/95947). Emmanuel Abbe, **Samy Bengio**, Aryo Lotfi, Colin Sandon, Omid Saremi
+    * [The Impact of Initialization on the Finetuning Dynamics in LoRA](https://nips.cc/virtual/2024/poster/93375). **Soufiane Hayou**, Nikhil Ghosh, Bin Yu
     * add two papers of Loubna Ben Allal
     * add three papers of Ziyad Benomar
 - 2023:
