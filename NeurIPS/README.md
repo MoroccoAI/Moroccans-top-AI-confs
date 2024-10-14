@@ -4,18 +4,21 @@
 </p>
 
 # Moroccans who co-authored 3 or more papers 
-* Yoshua Bengio: 102
-* Samy Bengio: 26
-* Rachid El Guerraoui: 5
+* Yoshua Bengio: 107
+* Samy Bengio: 27
+* Rachid Guerraoui: 7
 * Jalal Fadili: 4
-* El Mahdi El Mhamdi: 3
+* El Mahdi El Mhamdi: 4
+* Ziyad Benomar: 4
 * Aymen Al Marjani: 3
+* Youssef Allouah: 3
 
 # Papers with at least an author from a Morocco-based affiliation
-Total number : 1
+Total number : 2
 
 * UM6P:
-  * [Free Probability for predicting the performance of feed-forward fully connected neural networks](https://papers.nips.cc/paper_files/paper/2022/hash/10826a1a80f816ea98d559d7c7a97973-Abstract-Conference.html) Reda CHHAIBI, **Tariq Daouda**, Ezechiel Kahn
+  * 2022: [Free Probability for predicting the performance of feed-forward fully connected neural networks](https://papers.nips.cc/paper_files/paper/2022/hash/10826a1a80f816ea98d559d7c7a97973-Abstract-Conference.html) Reda CHHAIBI, **Tariq Daouda**, Ezechiel Kahn
+  * 2024: [If You Want to Be Robust, Be Wary of Initialization](https://nips.cc/virtual/2024/poster/93648) Sofiane ENNADIR, Johannes Lutzeyer, Michalis Vazirgiannis, **El Houcine Bergou**	
 
 # Paper Awards
  * Outstanding Main Track Runner-Ups:
@@ -25,12 +28,23 @@ Total number : 1
 #### Paper with the most Moroccan co-authors:
 * [Improving *day-ahead* Solar Irradiance Time Series Forecasting by Leveraging Spatio-Temporal Context](https://papers.nips.cc/paper_files/paper/2023/hash/070a57c5ef1e58cc90201b11d369b3c2-Abstract-Conference.html). **Oussama Boussif**, **Ghait Boukachab**, Dan Assouline, Stefano Massaroli, Tianle Yuan, **Loubna Benabbou**, **Yoshua Bengio**
 #### Female authors:
-* Number of female authors : 4 (Kaoutar El Maghraoui, Loubna Benabbou, Sanae Lotfi, Madiha Nadri)
+* Number of female authors : 5 (Kaoutar El Maghraoui, Loubna Benabbou, Sanae Lotfi, Madiha Nadri, Loubna Ben Allal)
 
 # List of all the papers co-authored by Moroccans in the main track of NeurIPS
 
 TODO: add Yoshua Bengio's papers
 
+- 2024:
+    * [On Weak Regret Analysis for Dueling Bandits](https://nips.cc/virtual/2024/poster/94336). **El Mehdi Saad**, Alexandra Carpentier, Tomáš Kocák, Nicolas Verzelen
+    * [Revisiting Ensembling in One-Shot Federated Learning](https://nips.cc/virtual/2024/poster/96422). **Youssef Allouah**, Akash Dhasade, **Rachid Guerraoui**, Nirupam Gupta, Anne-marie Kermarrec, Rafael Pinot, Rafael Pires, Rishi Sharma
+    * [Fine-Tuning Personalization in Federated Learning to Mitigate Adversarial Clients](https://nips.cc/virtual/2024/poster/94850). **Youssef Allouah**, **Abdellah El Mrini**, **Rachid Guerraoui**, Nirupam Gupta, Rafael Pinot
+    * [Unravelling in Collaborative Learning](https://nips.cc/virtual/2024/poster/95706). Aymeric Capitaine, Etienne Boursier, Antoine Scheid, Eric Moulines, Michael Jordan, **El-Mahdi El-Mhamdi**, Alain Durmus
+    * [If You Want to Be Robust, Be Wary of Initialization](https://nips.cc/virtual/2024/poster/93648) **Sofiane ENNADIR**, Johannes Lutzeyer, Michalis Vazirgiannis, **El Houcine Bergou**
+    * [MTGS: A Novel Framework for Multi-Person Temporal Gaze Following and Social Gaze Prediction](https://nips.cc/virtual/2024/poster/96265). Anshul Gupta, **Samy Tafasca**, Arya Farkhondeh, Pierre Vuillecard, Jean-marc Odobez
+    * [Toward Semantic Gaze Target Detection](https://nips.cc/virtual/2024/poster/96207). **Samy Tafasca**, Anshul Gupta, Victor Bros, Jean-marc Odobez
+    * [How Far Can Transformers Reason? The Locality Barrier and Inductive Scratchpad](https://nips.cc/virtual/2024/poster/95947). Emmanuel Abbe, **Samy Bengio**, Aryo Lotfi, Colin Sandon, Omid Saremi
+    * add two papers of Loubna Ben Allal
+    * add three papers of Ziyad Benomar
 - 2023:
     * [Transformers learn through gradual rank increase](https://papers.nips.cc/paper_files/paper/2023/hash/4d69c1c057a8bd570ba4a7b71aae8331-Abstract-Conference.html). Emmanuel Abbe, **Samy Bengio**, Enric Boix-Adsera, Etai Littwin, Joshua Susskind
     * [Robust Distributed Learning: Tight Error Bounds and Breakdown Point under Data Heterogeneity](https://papers.nips.cc/paper_files/paper/2023/hash/8f182e220092f7f1fc44f3313023f5a0-Abstract-Conference.html). **Youssef Allouah**, **Rachid Guerraoui**, Nirupam Gupta, Rafael Pinot, Geovani Rizk
