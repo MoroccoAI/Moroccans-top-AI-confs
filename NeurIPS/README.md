@@ -12,6 +12,7 @@
 * Ziyad Benomar: 4
 * Aymen Al Marjani: 3
 * Youssef Allouah: 3
+* El Mehdi Saad: 3
 
 # Papers with at least an author from a Morocco-based affiliation
 Total number : 2
