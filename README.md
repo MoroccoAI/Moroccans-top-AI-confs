@@ -22,7 +22,7 @@ This prize must be seen as a token of gratitude and appreciation for advancing A
 * To be eligible for the prize, the publication must have at least one co-author with a Morocco-based affiliation among the first three authors.
 * The prize is delivered directly to the Morocco-affiliated authors of the publication. The choice is theirs if they would like to share the prize with the rest of the authors. They are responsible for their choice.
 * One author can benefit from a maximum of two prizes if they co-author two eligible papers.  
-* If you succeded and are eligible to the prize, please fill the following form
+* If you succeded and are eligible to the prize, please fill the following form https://forms.gle/929ahu8KXj34dzDB8
 
 
 
